@@ -5,11 +5,12 @@ The resources of MFT series datasets.
 <img src="assets/MFT_samples.png" width="900"/>
 </div>
 
-Contact: vranlee@cau.edu.cn and weiranli@u.nus.edu. Any questions or discussion are welcome!
+Contact: vranlee@cau.edu.cn. Any questions or discussion are welcome!
 
 -----
 
 ## Updates
++ [2026.03.19] The MFT25 dataset is available from our SU-T repository: [**\[SU-T\]**](https://vranlee.github.io/SU-T/).
 + [2025.02.27] We update the BrackishMOT-M4FT dataset which is utilized in M^4FT.
 + [2024.07.23] Thanks for your attention! We have initialized this repo, and 4 clips of the MFT_DATASET (VER.24) is released now.
 
@@ -39,4 +40,4 @@ The datasets can be downloaded here:
 + Using the ***gen_data_path_sample.py*** to generate the training json files.
 
 ## Citation
-We are still preparing a large dataset for MFT (will be updated in this repo), which will include the video clips of this version. You can look up our other repos for MFT resources: [**\[M4FT\]**](https://github.com/vranlee/M-4-FT) [**\[P2PMFT\]**](https://github.com/vranlee/P2PMFT/) [**\[CMFTNet\]**](https://github.com/vranlee/CMFTNet/) [**\[TFMFT\]**](https://github.com/vranlee/TFMFT/).
+A large dataset for MFT (MFT25) has been released at [**\[SU-T\]**](https://vranlee.github.io/SU-T/). You can also look up our other repos for MFT resources: [**\[M4FT\]**](https://github.com/vranlee/M-4-FT) [**\[P2PMFT\]**](https://github.com/vranlee/P2PMFT/) [**\[CMFTNet\]**](https://github.com/vranlee/CMFTNet/) [**\[TFMFT\]**](https://github.com/vranlee/TFMFT/).
